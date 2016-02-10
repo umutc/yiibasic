@@ -1,0 +1,6 @@
+{
+	"WEB_SERVER": "httpd",
+  	"PHP_EXTENSIONS": ["pdo", "pdo_mysql", "mysql", "mysqli" , "mbstring"],
+    "LIB_PATH":                  "${HOME}",
+    "DOCUMENT_ROOT":  "${HOME}/web"
+}
